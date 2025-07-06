@@ -1,0 +1,11 @@
+﻿img {
+    width: 12cm;
+    height: 14cm;
+}
+img[src$="\photo_5418375039935444980_y.jpg"] {
+        width: 18cm;
+        height: 14cm;
+}
+body {
+    padding-left: 5cm;
+}
